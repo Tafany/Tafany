@@ -4,7 +4,7 @@ Oi! Eu sou Tafany
 
 💡 Conhecimento: C#, JavaScrip, HTML, CSS e banco: Mysql
 
-👀 Estudando Vue.js
+👀 Estudando React Native
 
 
 <div>
