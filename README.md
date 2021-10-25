@@ -1,6 +1,6 @@
 Oi! Eu sou Tafany
 
-💻 Cursando 3º análise e desenvolvimento de sistemas
+💻 Cursando 4º análise e desenvolvimento de sistemas
 
 💡 Conhecimento: C#, JavaScrip, HTML, CSS e banco: Mysql
 
