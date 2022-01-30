@@ -11,8 +11,7 @@ Oi! Eu sou Tafany
   <a href="https://github.com/Tafany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tafany&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafany&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em"   align="center" src="https://github-readstats.vercel.app/apiusername=Tafany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafany&layout=compact&langs_count=7&theme=react" />
+  
 
 </div>
 
@@ -24,6 +23,9 @@ Oi! Eu sou Tafany
   <img align="center" alt="Taf-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Taf-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Taf-react" height="30" width="40" src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667">
+   
+    ![Snake animation](https://github.com/Tafany/Tafany/blob/output/github-contribution-grid-snake.svg)
+ 
    
 </div>
 <!---
