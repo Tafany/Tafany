@@ -1,13 +1,10 @@
-Oi! Eu sou Tafany
-
-<div style="text-align: right">
-<img src="https://giphy.com/embed/H83F4AfL798AmtKXIL" width="120" height="20">
-</div>
+Oi! Eu sou Tafany  
 
 
-💻 Cursando 4º análise e desenvolvimento de sistemas
+💻 Cursando 4º Análise e Desenvolvimento de Sistemas
 
-💡 Conhecimento: C#, JavaScrip, HTML, CSS e banco: Mysql
+💡 Conhecimento: C#, JavaScrip, HTML, CSS 
+    banco: Mysql, FireBase
 
 👀 Estudando React Native
 
