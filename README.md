@@ -3,10 +3,10 @@ Oi! Eu sou Tafany
 
 💻 Cursando 4º Análise e Desenvolvimento de Sistemas
 
-💡 Conhecimento: C#, JavaScrip, HTML, CSS.
+💡 Conhecimento: React Native, C#, JavaScrip, HTML, CSS.
     banco: Mysql, FireBase
 
-👀 Estudando React Native
+👀 Estudando Golang
 
 
 <div>
