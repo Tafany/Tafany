@@ -6,7 +6,7 @@ Oi! Eu sou Tafany
 💡 Conhecimento: React Native, C#, JavaScrip, HTML, CSS <br/>
 💡 banco: Mysql, FireBase
 
-👀 Estudando Golang
+👀 
 
 
 <div>
