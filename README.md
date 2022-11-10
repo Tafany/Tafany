@@ -1,10 +1,10 @@
 Oi! Eu sou Tafany  
 
 
-💻 Formação: em  Análise e Desenvolvimento de Sistemas
+💻 Formação: em  Análise e Desenvolvimento de Sistemas <br/>
 💻 Estudando framework: Laravel
 
-💡 Conhecimento: React Native, JavaScrip, HTML, CSS,Bootstrap,SCSS <br/>
+💡 Conhecimento: React Native, JavaScrip, HTML, CSS,Bootstrap e SCSS <br/>
 💡 banco: Mysql, FireBase
 
 👀
