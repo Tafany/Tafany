@@ -7,7 +7,7 @@ Oi! Eu sou Tafany
 💡 Conhecimento: React Native, JavaScrip, HTML, CSS,Bootstrap e SCSS <br/>
 💡 banco: Mysql, FireBase
 
-👀
+👀 Desenvolvendo habilidades em Laravel
 
 
 <div>
