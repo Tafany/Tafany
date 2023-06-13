@@ -8,7 +8,7 @@ Oi! Eu sou Tafany
 💡 banco: Mysql, FireBase
 
 👀 Desenvolvendo habilidades em Laravel
-
+👀 Desenvolvendo habilidades em WordPress
 
 <div>
   <a href="https://github.com/Tafany">
